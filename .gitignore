@@ -1,1 +1,2 @@
-dontcheckin.txt
+*.pem
+.vscode
